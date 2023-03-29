@@ -1,1 +1,5 @@
 https://simerp.io/blog/tim-hieu-nhu-cau-khach-hang/
+https://vitalflux.com/pca-explained-variance-concept-python-example/
+
+
+https://www.datacamp.com/tutorial/decision-tree-classification-python
